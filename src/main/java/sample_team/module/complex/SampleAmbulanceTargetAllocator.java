@@ -11,7 +11,7 @@ import adf.core.component.module.complex.AmbulanceTargetAllocator;
 import java.util.HashMap;
 import java.util.Map;
 import rescuecore2.worldmodel.EntityID;
-
+//TEST
 public class SampleAmbulanceTargetAllocator extends AmbulanceTargetAllocator {
 
   public SampleAmbulanceTargetAllocator(AgentInfo ai, WorldInfo wi, ScenarioInfo si, ModuleManager moduleManager, DevelopData developData) {
